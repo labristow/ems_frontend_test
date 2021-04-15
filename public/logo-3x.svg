@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="41.3119mm" height="58.6613mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 22280.91 31638.03"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#00832D;stroke-width:5393.34;stroke-miterlimit:22.9256}
+    .str2 {stroke:#E94235;stroke-width:5393.34;stroke-miterlimit:22.9256}
+    .str0 {stroke:#FFBA00;stroke-width:5393.34;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <path d="M-0 0l22280.91 0 0 22766.26 -22280.91 0 0 -22766.26z"/>
+    </clipPath>
+    <clipPath id="id1">
+     <path d="M5911.59 11647.89l15476.62 0 0 15646.56 -15476.62 0 0 -15646.56z"/>
+    </clipPath>
+    <clipPath id="id2">
+     <path d="M11670.43 22629.86l9055.47 0 0 9008.17 -9055.47 0 0 -9008.17z"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2707780404048">
+   <g style="clip-path:url(#id0)">
+    <image x="-0" y="0" width="22280.91" height="22766.26" xlink:href="logo-3x_Images\logo-3x_ImgID1.png"/>
+   </g>
+  </g>
+  <line class="fil0 str0" x1="17008.27" y1="4244.56" x2="3776.42" y2= "18151.5" />
+  <g id="_2707780404176">
+   <g style="clip-path:url(#id1)">
+    <image x="5911.59" y="11647.89" width="15476.62" height="15646.56" xlink:href="logo-3x_Images\logo-3x_ImgID2.png"/>
+   </g>
+  </g>
+  <line class="fil0 str1" x1="17108.32" y1="14880.33" x2="9090.37" y2= "23216.76" />
+  <g id="_2707780407216">
+   <g style="clip-path:url(#id2)">
+    <image x="11670.43" y="22629.86" width="9055.47" height="9008.17" xlink:href="logo-3x_Images\logo-3x_ImgID3.png"/>
+   </g>
+  </g>
+  <line class="fil0 str2" x1="17294.93" y1="24821.82" x2="14264.14" y2= "28074.54" />
+ </g>
+</svg>
